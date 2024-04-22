@@ -4,7 +4,7 @@ title:  "AI but BYOC (Bring Your Own Cloud)"
 date:   2024-04-21 15:20:06 -0700
 categories: engineering
 ---
-![A watercolour painting of a cat](/assets/images/IMG_0087.png)
+![A watercolour painting of a cat](/assets/images/IMG_0087.jpg)
 
 With generative AI in vogue right now, I wanted a project to work on which allowed me to tinker with current models. This would let me learn how to set up and run the models, and to start understanding what their capabilities are and how those capabilities can add to human/computer interfaces in software. My area of expertise is primarily iOS app development, making it natural to choose an iOS app. 
 
@@ -28,7 +28,7 @@ App Workflows
 - Generation does not include game stats or mechanics 
 - User can share and export the generated assets 
 
-![A watercolour painting of a cat](/assets/images/IMG_0088.png)
+![A watercolour painting of a cat](/assets/images/IMG_0088.jpg)
 
 ### Running Models Locally
 
