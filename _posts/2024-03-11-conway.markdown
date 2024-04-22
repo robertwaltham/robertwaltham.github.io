@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "One weird trick for better software system design"
+date:   2024-03-11 08:59:06 -0700
+categories: engineering
+---
+![Header](/assets/images/header.jpg)
+
+### Not the game of life
+
+I watched a video discussing Conway's Law [^1] over the weekend, which discusses how organizations create software systems that mirror their own internal communication structure, and why the law seems to be the only _real_ law in software engineering. He goes into more detail about this and how it's not just that orgs create copies of their structure in systems, that it's _only the best they can do_ by doing that. 
+
+The driving factor in Conway's law is the cost of communication. Software development is driven entirely on communication, and this drives decision making in software system design. If copying the org chart into our design is the best possible outcome, then high communication barriers [^2] that exist in an org are pre-disposed to limiting the design space for the resulting systems. 
+
+I feel that a natural consequence of this law is the importance of communication and connection building skills for an individual working in a software org. Consider, a situation where one improves their communication skills and leverages them to build more connections, thus improving the overall communication efficiency of the engineering org. Then the design space for future systems produced by that org must be larger, driven by the more efficient communication (if my inference of Conway's law is correct). 
+
+Moreover, if an individual is looking to be a better software engineer then improving communications skills has incredible value. They apply to every single project, org, tech stack or deliverable one will ever work on! The result will be an opportunity for better systems design in every case - what other skill in engineering can make that claim?
+ 
+This is an era where grinding leetcode, obsessing over clean code or architectures and related code metric based elitism is prevalent in software-engineering related media. I feel that this is often missing the forest for the trees when it comes to software quality, and that the best outcomes for building software come out of a focus on communication and shared understanding. 
+
+[^1]: [The Only Unbreakable Law"](https://www.youtube.com/watch?v=5IUj1EZwpJY)
+[^2]: Note as software systems exist through time and are not static often "past you" or "team that was reassigned 6 months ago" is someone you have to communicate with! The communication barrier is quite high in those cases as one can only read the artifacts left over (code, docs, tooling, etc) to confer what and why things were built.
